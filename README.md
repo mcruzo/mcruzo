@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'am Moises, a web developer based in Mexico City. 
+I'm Moises, a web developer based in Mexico City. 
 
 I mostly work on front end stuff - React, Redux, Tailwind.
 
