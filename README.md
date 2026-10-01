@@ -32,6 +32,7 @@ All comments are welcome.
 * ChatGPT
 * Gemini
 * Trae
+* Claude
 
 ## About me
 * 🐕 I have a beautyful dog. Her name is Mancha
